@@ -1,4 +1,4 @@
-# Processing <strong>generating art</strong>
+# Abstract generating arts
 
 <h3> This repository describes my first experience in generating art sketches </h3>
 
