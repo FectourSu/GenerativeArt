@@ -1,6 +1,6 @@
-# Abstract generating arts
+# GENERATIVE ARTS
 
-<h3> This repository describes my first experience in generating art sketches </h3>
+<h3> This repository describes my first experience in generative art sketches </h3>
 
 ## Thanks a lot 
 
