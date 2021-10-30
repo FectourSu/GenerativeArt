@@ -1,4 +1,4 @@
-# GENERATIVE ARTS
+# GENERATIVE ART
 
 <h3> This repository describes my first experience in generative art sketches </h3>
 
